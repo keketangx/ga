@@ -1,0 +1,3 @@
+GA[Release]: Build APK then push to /ga(test repo)
+
+test description for message.txt
